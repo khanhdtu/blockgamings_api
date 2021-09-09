@@ -1,0 +1,9 @@
+coinName: Ontology
+coinCode: ONT
+tokenName: Ontology
+tokenCode: ONT
+currency: ONT
+deposit: true
+withdraw: false
+transfer: false
+order: 15

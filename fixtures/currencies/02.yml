@@ -1,0 +1,9 @@
+coinName: ETHEREUM
+coinCode: ETH
+tokenName: Ethereum
+tokenCode: ETH
+currency: ETH
+withdraw: true
+deposit: true
+transfer: false
+order: 3

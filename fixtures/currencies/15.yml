@@ -1,0 +1,9 @@
+coinName: Waves
+coinCode: WAVES
+tokenName: Waves
+tokenCode: WAVES
+currency: WAVES
+deposit: true
+withdraw: false
+transfer: false
+order: 16

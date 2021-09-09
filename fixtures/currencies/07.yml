@@ -1,0 +1,9 @@
+coinName: Bitcoin Cash
+coinCode: BCH
+tokenName: Bitcoin Cash
+tokenCode: BCH
+currency: BCH
+deposit: true
+withdraw: false
+transfer: false
+order: 8

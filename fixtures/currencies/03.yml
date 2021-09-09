@@ -1,0 +1,9 @@
+coinName: Binance
+coinCode: BNB
+tokenName: Binance
+tokenCode: BNB
+currency: BNB
+withdraw: false
+deposit: true
+transfer: false
+order: 4

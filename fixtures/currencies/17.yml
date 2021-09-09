@@ -1,0 +1,9 @@
+coinName: Stellar
+coinCode: XLM
+tokenName: Stellar
+tokenCode: XLM
+currency: XLM
+deposit: true
+withdraw: false
+transfer: false
+order: 18

@@ -1,0 +1,10 @@
+coinAddress: Tether
+coinName: USDT
+coinCode: USDT
+tokenName: USD
+tokenCode: Tether
+currency: USD
+withdraw: true
+deposit: true
+transfer: false
+order: 1

@@ -1,0 +1,9 @@
+coinName: Ripple
+coinCode: XRP
+tokenName: Ripple
+tokenCode: XRP
+currency: XRP
+deposit: true
+withdraw: false
+transfer: false
+order: 6

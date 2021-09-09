@@ -1,0 +1,9 @@
+coinName: BitTorrent
+coinCode: BTT
+tokenName: BitTorrent
+tokenCode: BTT
+currency: BTT
+deposit: true
+withdraw: false
+transfer: false
+order: 9

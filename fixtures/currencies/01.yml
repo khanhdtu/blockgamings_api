@@ -1,0 +1,9 @@
+coinName: Bitcoin
+coinCode: BTC
+tokenName: Bitcoin
+tokenCode: BTC
+currency: BTC
+withdraw: true
+deposit: true
+transfer: false
+order: 2

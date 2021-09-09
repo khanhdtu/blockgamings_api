@@ -1,0 +1,9 @@
+coinName: Tron
+coinCode: TRX
+tokenName: Tron
+tokenCode: TRX
+currency: TRX
+deposit: true
+withdraw: false
+transfer: false
+order: 5

@@ -1,0 +1,9 @@
+coinName: Cardano
+coinCode: ADA
+tokenName: Cardano
+tokenCode: ADA
+currency: ADA
+deposit: true
+withdraw: false
+transfer: false
+order: 7

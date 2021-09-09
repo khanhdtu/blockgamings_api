@@ -1,0 +1,11 @@
+export * from './user.model';
+export * from './email.model';
+export * from './affiliate.model';
+export * from './address.model';
+export * from './currency.model';
+export * from './wallet.model';
+export * from './transaction.model';
+export * from './bet.model';export * from './deposit.model';
+export * from './withdraw.model';
+export * from './transfer.model';
+export * from './migration.model';

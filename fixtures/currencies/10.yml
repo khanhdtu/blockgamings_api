@@ -1,0 +1,9 @@
+coinName: Dogecoin
+coinCode: DOGE
+tokenName: Dogecoin
+tokenCode: DOGE
+currency: DOGE
+deposit: true
+withdraw: false
+transfer: false
+order: 11
